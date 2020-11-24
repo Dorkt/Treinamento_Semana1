@@ -1,0 +1,16 @@
+body{
+    background-color: #191970;
+}
+
+h1{
+    text-align: center;
+    color: #483D8B;
+    background-color: #fff;
+    max-width: 40%;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+
+/*h1:hover{
+    color: 
+}*/
